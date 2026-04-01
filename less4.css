@@ -1,0 +1,21 @@
+#ls {
+  width: 250px;
+  background-color: #ffccff;
+  padding: 10px;
+}
+
+#list1 {
+  list-style-position: outside;
+}
+
+#list2 {
+  list-style-position: inside;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+ul li {
+  list-style-type: square;
+}
